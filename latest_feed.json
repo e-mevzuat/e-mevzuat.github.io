@@ -1,5 +1,439 @@
 [
   {
+    "id": "rg-33414-1",
+    "title": "Binalar ile Yerleşmeler İçin Yeşil Sertifika Yönetmeliğinde Değişiklik Yapılmasına Dair Yönetmelik",
+    "summary": "28 Ekim 2026 tarihli ve 33414 sayılı Resmî Gazete yayımlanan yönetmelik ile binaların enerji verimliliği ve yeşil sertifika standartları güncellendi.",
+    "officialSource": "T.C. Resmî Gazete / Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+    "officialSourceUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-1.htm",
+    "publicationDate": "28 Ekim 2026",
+    "officialNumber": "Resmî Gazete Sayı: 33414",
+    "category": "Resmî Gazete",
+    "priority": "Yüksek",
+    "tags": [
+      "Resmî Gazete",
+      "Yönetmelik",
+      "Yeşil Bina",
+      "Enerji"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Yönetmelik"
+  },
+  {
+    "id": "rg-33414-2",
+    "title": "İstanbul Üniversitesi Doğal Kaynaklardan İlaç Geliştirme Uygulama ve Araştırma Merkezi Yönetmeliği",
+    "summary": "28 Ekim 2026 tarihli ve 33414 sayılı Resmî Gazete yayımlanan araştırma merkezi yönetmeliği.",
+    "officialSource": "T.C. Resmî Gazete",
+    "officialSourceUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261028-2.htm",
+    "publicationDate": "28 Ekim 2026",
+    "officialNumber": "Resmî Gazete Sayı: 33414",
+    "category": "Resmî Gazete",
+    "priority": "Normal",
+    "tags": [
+      "Resmî Gazete",
+      "Yönetmelik"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Yönetmelik"
+  },
+  {
+    "id": "sgk-20261028-1",
+    "title": "28 Ekim 2026 Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru (2026/42)",
+    "summary": "Sosyal Güvenlik Kurumu Genel Sağlık Sigortası Genel Müdürlüğü tarafından yayımlanan geri ödeme listesi güncellemesi.",
+    "officialSource": "Sosyal Güvenlik Kurumu (SGK)",
+    "officialSourceUrl": "https://www.sgk.gov.tr",
+    "publicationDate": "28 Ekim 2026",
+    "officialNumber": "SGK Duyuru 2026/42",
+    "category": "SGK & İş Hukuku",
+    "priority": "Yüksek",
+    "tags": [
+      "SGK",
+      "Geri Ödeme",
+      "İlaç Listesi"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Genelge"
+  },
+  {
+    "id": "rg-33413-kanun-7596",
+    "title": "7596 Sayılı Tasfiyesine Karar Verilen Bazı Yatırım Fonları Hakkında Kanun",
+    "summary": "27 Ekim 2026 tarihli ve 33413 sayılı Resmî Gazete yayımlanan kanun ile belirli yatırım fonlarının tasfiye süreçleri, vergilendirme ve hak sahiplerine yapılacak ödemeler düzenlendi.",
+    "officialSource": "T.C. Resmî Gazete / TBMM",
+    "officialSourceUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-0.htm",
+    "publicationDate": "27 Ekim 2026",
+    "officialNumber": "Kanun No: 7596",
+    "category": "Vergi & Maliye",
+    "priority": "Kritik",
+    "tags": [
+      "Kanun",
+      "Yatırım Fonu",
+      "Vergi",
+      "SPK"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Kanun"
+  },
+  {
+    "id": "rg-33413-mukerrer-1",
+    "title": "2027 Yılı Cumhurbaşkanlığı Yıllık Programının Onaylanması Hakkında Karar (Karar Sayısı: 11925)",
+    "summary": "27 Ekim 2026 tarihli ve 33413 Mükerrer sayılı Resmî Gazete ile Türkiye ekonomisinin 2027 yılı makroekonomik, mali ve kalkınma hedefleri yürürlüğe girdi.",
+    "officialSource": "T.C. Resmî Gazete / Cumhurbaşkanlığı",
+    "officialSourceUrl": "https://www.resmigazete.gov.tr/fihrist?tarih=2026-10-27&mukerrer=1",
+    "publicationDate": "27 Ekim 2026",
+    "officialNumber": "Resmî Gazete Sayı: 33413 (Mükerrer)",
+    "category": "Kambiyo & Finans",
+    "priority": "Kritik",
+    "tags": [
+      "Resmî Gazete",
+      "Mükerrer",
+      "Cumhurbaşkanlığı",
+      "Yıllık Program"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Cumhurbaşkanı Kararı"
+  },
+  {
+    "id": "rg-33413-2",
+    "title": "Konutların Turizm Amaçlı Kiralanması Faaliyetlerinin Düzenlenmesine İlişkin Yönetmelikte Değişiklik",
+    "summary": "27 Ekim 2026 tarihli Resmî Gazete ile kısa süreli turizm konut kiralamalarında izin belgesi, site yönetimi muvafakati ve denetim şartları yeniden belirlendi.",
+    "officialSource": "T.C. Resmî Gazete / Kültür ve Turizm Bakanlığı",
+    "officialSourceUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-2.htm",
+    "publicationDate": "27 Ekim 2026",
+    "officialNumber": "Resmî Gazete Sayı: 33413",
+    "category": "Ticaret & Şirketler",
+    "priority": "Yüksek",
+    "tags": [
+      "Turizm Kiralaması",
+      "Airbnb",
+      "Konut",
+      "Yönetmelik"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Yönetmelik"
+  },
+  {
+    "id": "rg-33413-5",
+    "title": "Bilgilendirilmiş Rızanın Elektronik Ortamda Alınması Hakkında Yönetmelik",
+    "summary": "Sağlık hizmetlerinde kişisel sağlık verilerinin korunması ve hasta rızasının güvenli elektronik imza veya mobil ortamda alınmasına ilişkin usuller yürürlüğe girdi.",
+    "officialSource": "T.C. Resmî Gazete / Sağlık Bakanlığı",
+    "officialSourceUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-4.htm",
+    "publicationDate": "27 Ekim 2026",
+    "officialNumber": "Resmî Gazete Sayı: 33413",
+    "category": "KVKK",
+    "priority": "Yüksek",
+    "tags": [
+      "KVKK",
+      "Elektronik Rıza",
+      "Sağlık Verisi",
+      "Yönetmelik"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Yönetmelik"
+  },
+  {
+    "id": "rg-33413-3",
+    "title": "Kültür ve Tabiat Varlıklarını Koruma Kanunu Kapsamında Başvuru ve Hizmet Bedelleri Yönetmeliği",
+    "summary": "27 Ekim 2026 tarihli Resmî Gazete yayımlanan tarife ve işlem bedelleri yönetmeliği.",
+    "officialSource": "T.C. Resmî Gazete",
+    "officialSourceUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261027-3.htm",
+    "publicationDate": "27 Ekim 2026",
+    "officialNumber": "Resmî Gazete Sayı: 33413",
+    "category": "Resmî Gazete",
+    "priority": "Normal",
+    "tags": [
+      "Resmî Gazete",
+      "Yönetmelik"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Yönetmelik"
+  },
+  {
+    "id": "rg-33412-1",
+    "title": "Bingöl Üniversitesi Sosyal ve Ekonomik Çalışmalar Uygulama ve Araştırma Merkezi Yönetmeliği",
+    "summary": "26 Ekim 2026 tarihli ve 33412 sayılı Resmî Gazete düzenlemesi.",
+    "officialSource": "T.C. Resmî Gazete",
+    "officialSourceUrl": "https://www.resmigazete.gov.tr/eskiler/2026/10/20261026-3.htm",
+    "publicationDate": "26 Ekim 2026",
+    "officialNumber": "Resmî Gazete Sayı: 33412",
+    "category": "Resmî Gazete",
+    "priority": "Normal",
+    "tags": [
+      "Resmî Gazete",
+      "Yönetmelik"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Yönetmelik"
+  },
+  {
+    "id": "sgk-1",
+    "title": "28 Ekim 2026 Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2026/42 GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ",
+    "summary": "Sosyal Güvenlik Kurumu (SGK) tarafından yayımlanan resmi mevzuat duyurusu.",
+    "officialSource": "Sosyal Güvenlik Kurumu (SGK)",
+    "officialSourceUrl": "https://www.sgk.gov.tr/duyuru/detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202642-2026-10-28-08-31-43",
+    "publicationDate": "28.10.2026",
+    "officialNumber": "SGK Duyuru",
+    "category": "SGK & İş Hukuku",
+    "priority": "Yüksek",
+    "tags": [
+      "SGK",
+      "Duyuru",
+      "Sosyal Güvenlik"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Genelge"
+  },
+  {
+    "id": "sgk-2",
+    "title": "21 Ekim 2026 Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2026/41 GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ",
+    "summary": "Sosyal Güvenlik Kurumu (SGK) tarafından yayımlanan resmi mevzuat duyurusu.",
+    "officialSource": "Sosyal Güvenlik Kurumu (SGK)",
+    "officialSourceUrl": "https://www.sgk.gov.tr/duyuru/detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202641-2026-10-21-04-46-33",
+    "publicationDate": "28.10.2026",
+    "officialNumber": "SGK Duyuru",
+    "category": "SGK & İş Hukuku",
+    "priority": "Yüksek",
+    "tags": [
+      "SGK",
+      "Duyuru",
+      "Sosyal Güvenlik"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Genelge"
+  },
+  {
+    "id": "sgk-3",
+    "title": "20 Ekim 2026 Görevde Yükselme Sınav Duyurusu PERSONEL DAİRE BAŞKANLIĞI",
+    "summary": "Sosyal Güvenlik Kurumu (SGK) tarafından yayımlanan resmi mevzuat duyurusu.",
+    "officialSource": "Sosyal Güvenlik Kurumu (SGK)",
+    "officialSourceUrl": "https://www.sgk.gov.tr/duyuru/detay/Gorevde-Yukselme-Sinav-Duyurusu-2026-10-20-06-41-25",
+    "publicationDate": "28.10.2026",
+    "officialNumber": "SGK Duyuru",
+    "category": "SGK & İş Hukuku",
+    "priority": "Yüksek",
+    "tags": [
+      "SGK",
+      "Duyuru",
+      "Sosyal Güvenlik"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Genelge"
+  },
+  {
+    "id": "sgk-4",
+    "title": "20 Ekim 2026 2828 Sayılı Sosyal Hizmetler Kanunu Kapsamında Kurumumuza Yerleştirilen Adayların Atamalarına İlişki... PERSONEL DAİRE BAŞKANLIĞI",
+    "summary": "Sosyal Güvenlik Kurumu (SGK) tarafından yayımlanan resmi mevzuat duyurusu.",
+    "officialSource": "Sosyal Güvenlik Kurumu (SGK)",
+    "officialSourceUrl": "https://www.sgk.gov.tr/duyuru/detay/2828-Sayili-Sosyal-Hizmetler-Kanunu-Kapsaminda-Kurumumuza-Yerlestirilen-Adaylarin-Atamalarina-Iliskin-Duyuru-2026-10-20-04-57-13",
+    "publicationDate": "28.10.2026",
+    "officialNumber": "SGK Duyuru",
+    "category": "SGK & İş Hukuku",
+    "priority": "Yüksek",
+    "tags": [
+      "SGK",
+      "Duyuru",
+      "Sosyal Güvenlik"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Genelge"
+  },
+  {
+    "id": "sgk-5",
+    "title": "16 Ekim 2026 2026/1. Dönem İlaç Geri Ödeme Komisyonu ve 2026 Yılı 3. Olağanüstü İlaç Geri Ödeme Komisyonu Kararla... GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ",
+    "summary": "Sosyal Güvenlik Kurumu (SGK) tarafından yayımlanan resmi mevzuat duyurusu.",
+    "officialSource": "Sosyal Güvenlik Kurumu (SGK)",
+    "officialSourceUrl": "https://www.sgk.gov.tr/duyuru/detay/20261-Donem-Ilac-Geri-Odeme-Komisyonu-ve-2026-Yili-3-Olaganustu-Ilac-Geri-Odeme-Komisyonu-Kararlarina-Istinaden-Bedeli-Odenecek-Ilaclar-Listesinde-2026-10-22-03-54-20",
+    "publicationDate": "28.10.2026",
+    "officialNumber": "SGK Duyuru",
+    "category": "SGK & İş Hukuku",
+    "priority": "Yüksek",
+    "tags": [
+      "SGK",
+      "Duyuru",
+      "Sosyal Güvenlik"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Genelge"
+  },
+  {
+    "id": "kvkk-1",
+    "title": "İzmir Demokrasi Üniversitesi Hukuk Fakültesi Öğrencilerinden Kurumumuza Ziyaret",
+    "summary": "Kişisel Verileri Koruma Kurumu (KVKK) tarafından yayımlanan resmi ilke kararı / duyuru.",
+    "officialSource": "Kişisel Verileri Koruma Kurumu (KVKK)",
+    "officialSourceUrl": "https://www.kvkk.gov.tr/Icerik/9074/izmir-demokrasi-universitesi-hukuk-fakultesi-ogrencilerinden-kurumumuza-ziyaret",
+    "publicationDate": "28.10.2026",
+    "officialNumber": "KVKK Karar",
+    "category": "KVKK",
+    "priority": "Yüksek",
+    "tags": [
+      "KVKK",
+      "Kişisel Veri",
+      "İlke Kararı"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Kurul Kararı"
+  },
+  {
+    "id": "kvkk-2",
+    "title": "“Bilişim, Uzay ve Hukuk Sempozyumları I: Yapay Zekâ Çağında Kişisel Veri Korunması” Sempozyumu Gerçekleştirilecektir",
+    "summary": "Kişisel Verileri Koruma Kurumu (KVKK) tarafından yayımlanan resmi ilke kararı / duyuru.",
+    "officialSource": "Kişisel Verileri Koruma Kurumu (KVKK)",
+    "officialSourceUrl": "https://www.kvkk.gov.tr/Icerik/9061/bilisim-uzay-ve-hukuk-sempozyumlari-i-yapay-zeka-caginda-kisisel-veri-korunmasi-sempozyumu-gerceklestirilecektir",
+    "publicationDate": "28.10.2026",
+    "officialNumber": "KVKK Karar",
+    "category": "KVKK",
+    "priority": "Yüksek",
+    "tags": [
+      "KVKK",
+      "Kişisel Veri",
+      "İlke Kararı"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Kurul Kararı"
+  },
+  {
+    "id": "kvkk-3",
+    "title": "İşverenler Tarafından Çalışanlara Tahsis Edilen Kurumsal E-Posta Hesapları Başta Olmak Üzere, İşin Yürütülmesi Amacıyla Kullanılan İletişim Kanallarının denetlenmesinde Uyulması Gereken Usul ve Esaslar Hakkında Kurulun 16/09/2026 Tarihli ve 2026/2035 Sayılı İlke Kararı Hk.",
+    "summary": "Kişisel Verileri Koruma Kurumu (KVKK) tarafından yayımlanan resmi ilke kararı / duyuru.",
+    "officialSource": "Kişisel Verileri Koruma Kurumu (KVKK)",
+    "officialSourceUrl": "https://www.kvkk.gov.tr/Icerik/9044/isverenler-tarafindan-calisanlara-tahsis-edilen-kurumsal-e-posta-hesaplari-basta-olmak-uzere-isin-yurutulmesi-amaciyla-kullanilan-iletisim-kanallarinin-denetlenmesinde-uyulmasi-gereken-usul-ve-esaslar-hakkinda-kurulun-16-09-2026-tarihli-ve-2026-2035-sayili-ilke-karari-hk",
+    "publicationDate": "28.10.2026",
+    "officialNumber": "KVKK Karar",
+    "category": "KVKK",
+    "priority": "Yüksek",
+    "tags": [
+      "KVKK",
+      "Kişisel Veri",
+      "İlke Kararı"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Kurul Kararı"
+  },
+  {
+    "id": "bddk-1",
+    "title": "Başkanımız Prof. Dr. Şahap KAVCIOĞLU, Plan ve B&#252;t&#231;e Komisyonunda g&#252;ncel gelişmelere ilişkin bilgilendirme yapmıştır.",
+    "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) tarafından yayımlanan resmi kurul kararı / duyuru.",
+    "officialSource": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK)",
+    "officialSourceUrl": "https://www.bddk.org.tr/Duyuru/Detay/4313",
+    "publicationDate": "16.10.2026",
+    "officialNumber": "BDDK Karar",
+    "category": "Kambiyo & Finans",
+    "priority": "Yüksek",
+    "tags": [
+      "BDDK",
+      "Bankacılık",
+      "Finans"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Kurul Kararı"
+  },
+  {
+    "id": "bddk-2",
+    "title": "Destek Yatırım Bankası A.Ş., Hedef Yatırım Bankası A.Ş., Tera Yatırım Bankası A.Ş. ile Destek Finans Faktoring A.Ş. ve Tera Finans Faktoring A.Ş. Hakkında Basın Duyurusu",
+    "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) tarafından yayımlanan resmi kurul kararı / duyuru.",
+    "officialSource": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK)",
+    "officialSourceUrl": "https://www.bddk.org.tr/Duyuru/Detay/4306",
+    "publicationDate": "30.09.2026",
+    "officialNumber": "BDDK Karar",
+    "category": "Kambiyo & Finans",
+    "priority": "Yüksek",
+    "tags": [
+      "BDDK",
+      "Bankacılık",
+      "Finans"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Kurul Kararı"
+  },
+  {
+    "id": "bddk-3",
+    "title": "Bank Mellat Merkezi Tahran İstanbul T&#252;rkiye Merkez Şubesinin Faaliyet İzninin Kaldırılmasına İlişkin Basın Duyurusu",
+    "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) tarafından yayımlanan resmi kurul kararı / duyuru.",
+    "officialSource": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK)",
+    "officialSourceUrl": "https://www.bddk.org.tr/Duyuru/Detay/3303",
+    "publicationDate": "18.09.2026",
+    "officialNumber": "BDDK Karar",
+    "category": "Kambiyo & Finans",
+    "priority": "Yüksek",
+    "tags": [
+      "BDDK",
+      "Bankacılık",
+      "Finans"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Kurul Kararı"
+  },
+  {
+    "id": "bddk-4",
+    "title": "Golden Global Yatırım Bankası A.Ş. Hakkında Basın Duyurusu",
+    "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) tarafından yayımlanan resmi kurul kararı / duyuru.",
+    "officialSource": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK)",
+    "officialSourceUrl": "https://www.bddk.org.tr/Duyuru/Detay/3301",
+    "publicationDate": "16.09.2026",
+    "officialNumber": "BDDK Karar",
+    "category": "Kambiyo & Finans",
+    "priority": "Yüksek",
+    "tags": [
+      "BDDK",
+      "Bankacılık",
+      "Finans"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Kurul Kararı"
+  },
+  {
+    "id": "bddk-5",
+    "title": "Dolandırıcılık Hakkında Basın Duyurusu",
+    "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) tarafından yayımlanan resmi kurul kararı / duyuru.",
+    "officialSource": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK)",
+    "officialSourceUrl": "https://www.bddk.org.tr/Duyuru/Detay/3297",
+    "publicationDate": "14.08.2026",
+    "officialNumber": "BDDK Karar",
+    "category": "Kambiyo & Finans",
+    "priority": "Yüksek",
+    "tags": [
+      "BDDK",
+      "Bankacılık",
+      "Finans"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Kurul Kararı"
+  },
+  {
+    "id": "spk-1",
+    "title": "Basın Duyurusu",
+    "summary": "Sermaye Piyasası Kurulu (SPK) tarafından yayımlanan resmi bülten / piyasa duyurusu.",
+    "officialSource": "Sermaye Piyasası Kurulu (SPK)",
+    "officialSourceUrl": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/basin-duyurusu_28102026",
+    "publicationDate": "28.10.2026",
+    "officialNumber": "SPK Bülteni",
+    "category": "Kambiyo & Finans",
+    "priority": "Yüksek",
+    "tags": [
+      "SPK",
+      "Sermaye Piyasası",
+      "Bülten"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Tebliğ"
+  },
+  {
+    "id": "spk-5",
+    "title": "Takas Kesinliği ve PBLK Hususlarına İlişkin Basın Duyurusu",
+    "summary": "Sermaye Piyasası Kurulu (SPK) tarafından yayımlanan resmi bülten / piyasa duyurusu.",
+    "officialSource": "Sermaye Piyasası Kurulu (SPK)",
+    "officialSourceUrl": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/takas-kesinligi-ve-pblk-hususlarina-iliskin-basin-duyurusu",
+    "publicationDate": "28.10.2026",
+    "officialNumber": "SPK Bülteni",
+    "category": "Kambiyo & Finans",
+    "priority": "Yüksek",
+    "tags": [
+      "SPK",
+      "Sermaye Piyasası",
+      "Bülten"
+    ],
+    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
+    "officialDocumentType": "Tebliğ"
+  },
+  {
     "id": "rg-33411-1",
     "title": "Gaziantep İslam Bilim ve Teknoloji Üniversitesi Diş Hekimliği Fakültesi Eğitim-Öğretim ve Sınav Yönetmeliği",
     "summary": "25 Ekim 2026 tarihli ve 33411 sayılı Resmî Gazete'de yayımlanan tebliğ düzenlemesi.",
@@ -192,78 +626,6 @@
     "officialDocumentType": "Tebliğ"
   },
   {
-    "id": "sgk-1",
-    "title": "21 Ekim 2026 Bedeli Ödenecek İlaçlar Listesinde Yapılan Düzenlemeler Hakkında Duyuru 2026/41 GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ",
-    "summary": "Sosyal Güvenlik Kurumu (SGK) tarafından yayımlanan resmi mevzuat duyurusu.",
-    "officialSource": "Sosyal Güvenlik Kurumu (SGK)",
-    "officialSourceUrl": "https://www.sgk.gov.tr/duyuru/detay/Bedeli-Odenecek-Ilaclar-Listesinde-Yapilan-Duzenlemeler-Hakkinda-Duyuru-202641-2026-10-21-04-46-33",
-    "publicationDate": "24.10.2026",
-    "officialNumber": "SGK Duyuru",
-    "category": "SGK & İş Hukuku",
-    "priority": "Yüksek",
-    "tags": [
-      "SGK",
-      "Duyuru",
-      "Sosyal Güvenlik"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Genelge"
-  },
-  {
-    "id": "sgk-2",
-    "title": "20 Ekim 2026 Görevde Yükselme Sınav Duyurusu PERSONEL DAİRE BAŞKANLIĞI",
-    "summary": "Sosyal Güvenlik Kurumu (SGK) tarafından yayımlanan resmi mevzuat duyurusu.",
-    "officialSource": "Sosyal Güvenlik Kurumu (SGK)",
-    "officialSourceUrl": "https://www.sgk.gov.tr/duyuru/detay/Gorevde-Yukselme-Sinav-Duyurusu-2026-10-20-06-41-25",
-    "publicationDate": "24.10.2026",
-    "officialNumber": "SGK Duyuru",
-    "category": "SGK & İş Hukuku",
-    "priority": "Yüksek",
-    "tags": [
-      "SGK",
-      "Duyuru",
-      "Sosyal Güvenlik"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Genelge"
-  },
-  {
-    "id": "sgk-3",
-    "title": "20 Ekim 2026 2828 Sayılı Sosyal Hizmetler Kanunu Kapsamında Kurumumuza Yerleştirilen Adayların Atamalarına İlişki... PERSONEL DAİRE BAŞKANLIĞI",
-    "summary": "Sosyal Güvenlik Kurumu (SGK) tarafından yayımlanan resmi mevzuat duyurusu.",
-    "officialSource": "Sosyal Güvenlik Kurumu (SGK)",
-    "officialSourceUrl": "https://www.sgk.gov.tr/duyuru/detay/2828-Sayili-Sosyal-Hizmetler-Kanunu-Kapsaminda-Kurumumuza-Yerlestirilen-Adaylarin-Atamalarina-Iliskin-Duyuru-2026-10-20-04-57-13",
-    "publicationDate": "24.10.2026",
-    "officialNumber": "SGK Duyuru",
-    "category": "SGK & İş Hukuku",
-    "priority": "Yüksek",
-    "tags": [
-      "SGK",
-      "Duyuru",
-      "Sosyal Güvenlik"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Genelge"
-  },
-  {
-    "id": "sgk-4",
-    "title": "16 Ekim 2026 2026/1. Dönem İlaç Geri Ödeme Komisyonu ve 2026 Yılı 3. Olağanüstü İlaç Geri Ödeme Komisyonu Kararla... GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ",
-    "summary": "Sosyal Güvenlik Kurumu (SGK) tarafından yayımlanan resmi mevzuat duyurusu.",
-    "officialSource": "Sosyal Güvenlik Kurumu (SGK)",
-    "officialSourceUrl": "https://www.sgk.gov.tr/duyuru/detay/20261-Donem-Ilac-Geri-Odeme-Komisyonu-ve-2026-Yili-3-Olaganustu-Ilac-Geri-Odeme-Komisyonu-Kararlarina-Istinaden-Bedeli-Odenecek-Ilaclar-Listesinde-2026-10-22-03-54-20",
-    "publicationDate": "24.10.2026",
-    "officialNumber": "SGK Duyuru",
-    "category": "SGK & İş Hukuku",
-    "priority": "Yüksek",
-    "tags": [
-      "SGK",
-      "Duyuru",
-      "Sosyal Güvenlik"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Genelge"
-  },
-  {
     "id": "sgk-5",
     "title": "16 Ekim 2026 Reçete Teslim Süresinin Uzatılması GENEL SAĞLIK SİGORTASI GENEL MÜDÜRLÜĞÜ",
     "summary": "Sosyal Güvenlik Kurumu (SGK) tarafından yayımlanan resmi mevzuat duyurusu.",
@@ -282,60 +644,6 @@
     "officialDocumentType": "Genelge"
   },
   {
-    "id": "kvkk-1",
-    "title": "İzmir Demokrasi Üniversitesi Hukuk Fakültesi Öğrencilerinden Kurumumuza Ziyaret",
-    "summary": "Kişisel Verileri Koruma Kurumu (KVKK) tarafından yayımlanan resmi ilke kararı / duyuru.",
-    "officialSource": "Kişisel Verileri Koruma Kurumu (KVKK)",
-    "officialSourceUrl": "https://www.kvkk.gov.tr/Icerik/9074/izmir-demokrasi-universitesi-hukuk-fakultesi-ogrencilerinden-kurumumuza-ziyaret",
-    "publicationDate": "24.10.2026",
-    "officialNumber": "KVKK Karar",
-    "category": "KVKK",
-    "priority": "Yüksek",
-    "tags": [
-      "KVKK",
-      "Kişisel Veri",
-      "İlke Kararı"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Kurul Kararı"
-  },
-  {
-    "id": "kvkk-2",
-    "title": "“Bilişim, Uzay ve Hukuk Sempozyumları I: Yapay Zekâ Çağında Kişisel Veri Korunması” Sempozyumu Gerçekleştirilecektir",
-    "summary": "Kişisel Verileri Koruma Kurumu (KVKK) tarafından yayımlanan resmi ilke kararı / duyuru.",
-    "officialSource": "Kişisel Verileri Koruma Kurumu (KVKK)",
-    "officialSourceUrl": "https://www.kvkk.gov.tr/Icerik/9061/bilisim-uzay-ve-hukuk-sempozyumlari-i-yapay-zeka-caginda-kisisel-veri-korunmasi-sempozyumu-gerceklestirilecektir",
-    "publicationDate": "24.10.2026",
-    "officialNumber": "KVKK Karar",
-    "category": "KVKK",
-    "priority": "Yüksek",
-    "tags": [
-      "KVKK",
-      "Kişisel Veri",
-      "İlke Kararı"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Kurul Kararı"
-  },
-  {
-    "id": "kvkk-3",
-    "title": "İşverenler Tarafından Çalışanlara Tahsis Edilen Kurumsal E-Posta Hesapları Başta Olmak Üzere, İşin Yürütülmesi Amacıyla Kullanılan İletişim Kanallarının denetlenmesinde Uyulması Gereken Usul ve Esaslar Hakkında Kurulun 16/09/2026 Tarihli ve 2026/2035 Sayılı İlke Kararı Hk.",
-    "summary": "Kişisel Verileri Koruma Kurumu (KVKK) tarafından yayımlanan resmi ilke kararı / duyuru.",
-    "officialSource": "Kişisel Verileri Koruma Kurumu (KVKK)",
-    "officialSourceUrl": "https://www.kvkk.gov.tr/Icerik/9044/isverenler-tarafindan-calisanlara-tahsis-edilen-kurumsal-e-posta-hesaplari-basta-olmak-uzere-isin-yurutulmesi-amaciyla-kullanilan-iletisim-kanallarinin-denetlenmesinde-uyulmasi-gereken-usul-ve-esaslar-hakkinda-kurulun-16-09-2026-tarihli-ve-2026-2035-sayili-ilke-karari-hk",
-    "publicationDate": "24.10.2026",
-    "officialNumber": "KVKK Karar",
-    "category": "KVKK",
-    "priority": "Yüksek",
-    "tags": [
-      "KVKK",
-      "Kişisel Veri",
-      "İlke Kararı"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Kurul Kararı"
-  },
-  {
     "id": "kvkk-4",
     "title": "İlgili Kişilerin Başvurularına Verilecek Cevabın Bildirim Usulüne İlişkin Kamuoyu Duyurusu",
     "summary": "Kişisel Verileri Koruma Kurumu (KVKK) tarafından yayımlanan resmi ilke kararı / duyuru.",
@@ -352,114 +660,6 @@
     ],
     "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
     "officialDocumentType": "Kurul Kararı"
-  },
-  {
-    "id": "bddk-1",
-    "title": "Başkanımız Prof. Dr. Şahap KAVCIOĞLU, Plan ve B&#252;t&#231;e Komisyonunda g&#252;ncel gelişmelere ilişkin bilgilendirme yapmıştır.",
-    "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) tarafından yayımlanan resmi kurul kararı / duyuru.",
-    "officialSource": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK)",
-    "officialSourceUrl": "https://www.bddk.org.tr/Duyuru/Detay/4313",
-    "publicationDate": "16.10.2026",
-    "officialNumber": "BDDK Karar",
-    "category": "Kambiyo & Finans",
-    "priority": "Yüksek",
-    "tags": [
-      "BDDK",
-      "Bankacılık",
-      "Finans"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Kurul Kararı"
-  },
-  {
-    "id": "bddk-2",
-    "title": "Destek Yatırım Bankası A.Ş., Hedef Yatırım Bankası A.Ş., Tera Yatırım Bankası A.Ş. ile Destek Finans Faktoring A.Ş. ve Tera Finans Faktoring A.Ş. Hakkında Basın Duyurusu",
-    "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) tarafından yayımlanan resmi kurul kararı / duyuru.",
-    "officialSource": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK)",
-    "officialSourceUrl": "https://www.bddk.org.tr/Duyuru/Detay/4306",
-    "publicationDate": "30.09.2026",
-    "officialNumber": "BDDK Karar",
-    "category": "Kambiyo & Finans",
-    "priority": "Yüksek",
-    "tags": [
-      "BDDK",
-      "Bankacılık",
-      "Finans"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Kurul Kararı"
-  },
-  {
-    "id": "bddk-3",
-    "title": "Bank Mellat Merkezi Tahran İstanbul T&#252;rkiye Merkez Şubesinin Faaliyet İzninin Kaldırılmasına İlişkin Basın Duyurusu",
-    "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) tarafından yayımlanan resmi kurul kararı / duyuru.",
-    "officialSource": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK)",
-    "officialSourceUrl": "https://www.bddk.org.tr/Duyuru/Detay/3303",
-    "publicationDate": "18.09.2026",
-    "officialNumber": "BDDK Karar",
-    "category": "Kambiyo & Finans",
-    "priority": "Yüksek",
-    "tags": [
-      "BDDK",
-      "Bankacılık",
-      "Finans"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Kurul Kararı"
-  },
-  {
-    "id": "bddk-4",
-    "title": "Golden Global Yatırım Bankası A.Ş. Hakkında Basın Duyurusu",
-    "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) tarafından yayımlanan resmi kurul kararı / duyuru.",
-    "officialSource": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK)",
-    "officialSourceUrl": "https://www.bddk.org.tr/Duyuru/Detay/3301",
-    "publicationDate": "16.09.2026",
-    "officialNumber": "BDDK Karar",
-    "category": "Kambiyo & Finans",
-    "priority": "Yüksek",
-    "tags": [
-      "BDDK",
-      "Bankacılık",
-      "Finans"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Kurul Kararı"
-  },
-  {
-    "id": "bddk-5",
-    "title": "Dolandırıcılık Hakkında Basın Duyurusu",
-    "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) tarafından yayımlanan resmi kurul kararı / duyuru.",
-    "officialSource": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK)",
-    "officialSourceUrl": "https://www.bddk.org.tr/Duyuru/Detay/3297",
-    "publicationDate": "14.08.2026",
-    "officialNumber": "BDDK Karar",
-    "category": "Kambiyo & Finans",
-    "priority": "Yüksek",
-    "tags": [
-      "BDDK",
-      "Bankacılık",
-      "Finans"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Kurul Kararı"
-  },
-  {
-    "id": "spk-1",
-    "title": "Takas Kesinliği ve PBLK Hususlarına İlişkin Basın Duyurusu",
-    "summary": "Sermaye Piyasası Kurulu (SPK) tarafından yayımlanan resmi bülten / piyasa duyurusu.",
-    "officialSource": "Sermaye Piyasası Kurulu (SPK)",
-    "officialSourceUrl": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/takas-kesinligi-ve-pblk-hususlarina-iliskin-basin-duyurusu",
-    "publicationDate": "24.10.2026",
-    "officialNumber": "SPK Bülteni",
-    "category": "Kambiyo & Finans",
-    "priority": "Yüksek",
-    "tags": [
-      "SPK",
-      "Sermaye Piyasası",
-      "Bülten"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Tebliğ"
   },
   {
     "id": "spk-2",
@@ -485,24 +685,6 @@
     "summary": "Sermaye Piyasası Kurulu (SPK) tarafından yayımlanan resmi bülten / piyasa duyurusu.",
     "officialSource": "Sermaye Piyasası Kurulu (SPK)",
     "officialSourceUrl": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/basin-aciklamasi_06102026",
-    "publicationDate": "24.10.2026",
-    "officialNumber": "SPK Bülteni",
-    "category": "Kambiyo & Finans",
-    "priority": "Yüksek",
-    "tags": [
-      "SPK",
-      "Sermaye Piyasası",
-      "Bülten"
-    ],
-    "inEffectDate": "Yayımı tarihinde yürürlüğe girer",
-    "officialDocumentType": "Tebliğ"
-  },
-  {
-    "id": "spk-4",
-    "title": "Basın A&#231;ıklaması",
-    "summary": "Sermaye Piyasası Kurulu (SPK) tarafından yayımlanan resmi bülten / piyasa duyurusu.",
-    "officialSource": "Sermaye Piyasası Kurulu (SPK)",
-    "officialSourceUrl": "https://spk.gov.tr/duyurular/basin-duyurulari/2026/basin-aciklamasi",
     "publicationDate": "24.10.2026",
     "officialNumber": "SPK Bülteni",
     "category": "Kambiyo & Finans",
